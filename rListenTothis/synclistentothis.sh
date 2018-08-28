@@ -1,1 +1,0 @@
-syncreddit/synclistentothis.sh

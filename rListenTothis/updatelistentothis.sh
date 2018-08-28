@@ -1,1 +1,0 @@
-syncreddit/updatelistentothis.sh

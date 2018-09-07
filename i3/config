@@ -448,4 +448,4 @@ bindsym $mod+F7 exec mpc prev
 
 exec_always --no-startup-id albert
 exec_always --no-startup-id ~/.config/polybar/launch.sh
-
+exec_always nitrogen --set-scaled --random ~/wallpaper/ 
